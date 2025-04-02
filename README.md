@@ -4,6 +4,16 @@
 
 Auto-Store는 다양한 이커머스 채널(네이버, 쿠팡 등)과 온채널(Onch) 시스템을 연동하여 상품, 주문, 배송, 재고 등을 자동으로 관리하는 마이크로서비스 아키텍처(MSA) 기반 시스템입니다.
 
+## Service Repository
+- [Mail Service](https://github.com/daechan-jo/auto-store-services-mail.git)
+- [Onch Service](https://github.com/daechan-jo/auto-store-services-onch.git)
+- [Coupang Service](https://github.com/daechan-jo/auto-store-services-coupang.git)
+- [Soldout Service](https://github.com/daechan-jo/auto-store-services-soldout.git)
+- [Order Service](https://github.com/daechan-jo/auto-store-services-order.git)
+- [Delivery Service](https://github.com/daechan-jo/auto-store-services-delivery.git)
+- [Price Service](https://github.com/daechan-jo/auto-store-services-price.git)
+
+
 ## 주요 기능
 
 - **다중 플랫폼 연동**: 네이버, 쿠팡, 온채널 등 여러 이커머스 플랫폼 통합 관리
